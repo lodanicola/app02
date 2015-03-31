@@ -1,0 +1,14 @@
+body {
+	background-color: #A73537;
+	margin: 0;
+}
+
+h1 {
+	font-size: 48px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	color:#DFD049;
+	margin-left: auto;
+	margin-right:auto;
+	width:400px;
+	text-align:center;
+}
